@@ -5,7 +5,8 @@
 
 Consider an 7 category, ordinal outcome Y and continuous predictor X.  When X=0, the distribution of Y is as follows:
 
-| k | $P(Y=k | X = 0)$ |
+
+| k | $P(Y=k \| X = 0)$ |
 |:---:|:---:|
 | 1 | 0.008 |
 | 2 | 0.162 |
@@ -14,6 +15,7 @@ Consider an 7 category, ordinal outcome Y and continuous predictor X.  When X=0,
 | 5 | 0.149 |
 | 6 | 0.065 |
 | 7 | 0.024 |
+
 
 Under the assumption that the log relative odds is linear in X, calculate an expression for $f(x) = P(Y=k|X=x)$.  In your presentation, explain how you derived $f(x)$.
 
