@@ -86,7 +86,12 @@ Final grades will be a weighted average of the final project (30%), initial expl
 
 ## Modules
 
-1. **The left-hand side of the equation.** Models are often of the form $C(Y|X) = f(X, \theta)$ where $C$ is some summary measure of an outcome distribution and $f$ is some function of predictor variables.  For Thursday, identify several examples of outcomes ($Y$) and summary measures ($C$) in published research.
+| Name | A | B |
+|:---|:---|:---|
+| Left hand side of the equation | [(link)](https://github.com/thomasgstewart/machine-learning-1-fall-2024/blob/main/modules/01a-left-hand-side-of-equantion.md) | [(link)](https://github.com/thomasgstewart/machine-learning-1-fall-2024/blob/main/modules/01b-left-hand-side-of-equantion.md) | 
+
+
+
 
 ## Schedule
 
