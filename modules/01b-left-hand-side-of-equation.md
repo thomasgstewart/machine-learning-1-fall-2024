@@ -26,9 +26,10 @@ Generate an interactive figure to illustrate how the conditional distribution of
 ## C
 
 Suppose X and Y are continuous random variables, and
-\[
+
+$$
     Y|X = 0 \sim \text{GAMMA}(\text{shape}=5, \text{rate}=12)
-\]
+$$
 
 Assuming that the log relative hazard is linear in X, calculate an expression for the density and cumulative probability functions of $Y|X$.
 
