@@ -17,7 +17,7 @@ Consider an 7 category, ordinal outcome Y and continuous predictor X.  When X=0,
 | 7 | 0.024 |
 
 
-Under the assumption that the log relative odds is linear in X, calculate an expression for $f(x) = P(Y=k|X=x)$.  In your presentation, explain how you derived $f(x)$.
+Under the assumption that the log relative odds is linear in X, calculate an expression for $f(x) = P(Y=k|X=x)$.  In your presentation, explain how you derived $f(x)$.  (Hint: Chapters 13 and 15 in Regression Modeling Strategies may be helpful.)
 
 ## B
 
@@ -31,7 +31,7 @@ $$
     Y|X = 0 \sim \text{GAMMA}(\text{shape}=5, \text{rate}=12)
 $$
 
-Assuming that the log relative hazard is linear in X, calculate an expression for the density and cumulative probability functions of $Y|X$.
+Assuming that the log relative hazard is linear in X, calculate an expression for the density and cumulative probability functions of $Y|X$.  (Hint: Chapters 17 to 20 in Regression Modeling Strategies may be helpful.)
 
 ## D
 
@@ -40,7 +40,7 @@ Generate an interactive figure to illustrate how the conditional distribution $Y
 
 ## E
 
-Identify an example in the literature of modeling using the log relative odds.  Summarize the primary outcome and primary research question.
+Identify an example in the literature of modeling using the log relative odds **for an ordinal outcome**.  Summarize the primary outcome and primary research question.
 
 ## F
 
