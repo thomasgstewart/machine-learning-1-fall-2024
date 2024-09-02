@@ -98,7 +98,7 @@ Final grades will be a weighted average of the final project (30%), initial expl
 | Mon | Tue | Wed | Thu | Fri |
 |:---|:---|:---|:---|:---|
 | Aug<br>&nbsp; |27<br>&nbsp; |  | 29<br>Left-hand side<br>&nbsp; |   |
-| Sep<br>&nbsp; |3<br>Left-hand side<br>&nbsp; |  | 5<br>&nbsp; |   |
+| Sep<br>&nbsp; |3<br>DUE: [Left-hand side (part b)](https://github.com/thomasgstewart/machine-learning-1-fall-2024/blob/main/modules/01b-left-hand-side-of-equation.md)<br>&nbsp; |  | 5<br>&nbsp; |   |
 | |10<br>Add deadline<br>&nbsp; |11<br>Drop deadline<br>&nbsp;  | 12<br>&nbsp; |   |
 | |17<br>&nbsp; |  | 19<br>&nbsp; |   |
 | |24<br>&nbsp; |  | 26<br>&nbsp; |   |
