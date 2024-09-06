@@ -89,8 +89,8 @@ Final grades will be a weighted average of the final project (30%), initial expl
 | Name | A | B |
 |:---|:---|:---|
 | Left hand side of the equation | [(link)](https://github.com/thomasgstewart/machine-learning-1-fall-2024/blob/main/modules/01a-left-hand-side-of-equation.md) | [(link)](https://github.com/thomasgstewart/machine-learning-1-fall-2024/blob/main/modules/01b-left-hand-side-of-equation.md) | 
-| Hazards model |  [(link)](https://github.com/thomasgstewart/machine-learning-1-fall-2024/blob/main/modules/02a-hazards-models.md) | |
-
+| Hazards model |  [(link)](https://github.com/thomasgstewart/machine-learning-1-fall-2024/blob/main/modules/02a-hazard-models.md) | |
+                            
 
 
 
